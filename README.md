@@ -2,9 +2,9 @@
 
 A collection of finished frontend art by **[Satwik](https://github.com/Genious07)**. Stories you scroll through, worlds you can move around, and small experiments that make the browser feel unfamiliar again.
 
-[Collection preview](https://elsewhere-satwik-web-lab.ctrlagent-4537.chatgpt.site/) · [Brand assets](brand/)
+[Open Elsewhere](https://elsewhere-experiences.vercel.app/) · [Brand assets](brand/)
 
-> This is a public showcase, with no website source code. Red John’s Footsteps is live and publicly accessible. The Quiet Orbit and the original gallery currently require owner access.
+> This is a public showcase, with no website source code. Both experiences and the gallery are live and publicly accessible.
 
 ## Red John’s Footsteps
 
@@ -18,13 +18,13 @@ A season of obsession, told through real portraits, a playable piano, a descent 
 
 ## The Quiet Orbit
 
-[![The Quiet Orbit — an illuminated sculptural world](previews/quiet-orbit.png)](https://elsewhere-satwik-web-lab.ctrlagent-4537.chatgpt.site/world.html)
+[![The Quiet Orbit — an illuminated sculptural world](previews/quiet-orbit.png)](https://elsewhere-experiences.vercel.app/world)
 
 Leave the familiar behind. Travel through floating stone and impossible circles toward a sun of your own. Original procedural forms respond to your scroll and pointer as the camera moves through the world.
 
 **Explore:** four chapters, reversible camera movement, sculptural lighting, replay and a reduced-motion presentation.
 
-[World preview — restricted access](https://elsewhere-satwik-web-lab.ctrlagent-4537.chatgpt.site/world.html) · [Credits](CREDITS.md)
+[Explore The Quiet Orbit](https://elsewhere-experiences.vercel.app/world) · [Credits](CREDITS.md)
 
 ## About the collection
 
