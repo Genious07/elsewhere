@@ -4,17 +4,17 @@ A collection of finished frontend art by **[Satwik](https://github.com/Genious07
 
 [Collection preview](https://elsewhere-satwik-web-lab.ctrlagent-4537.chatgpt.site/) · [Brand assets](brand/)
 
-> This is a public showcase, with no website source code. Live demos currently require owner access; the screenshots below are publicly viewable.
+> This is a public showcase, with no website source code. Red John’s Footsteps is live and publicly accessible. The Quiet Orbit and the original gallery currently require owner access.
 
 ## Red John’s Footsteps
 
-[![Red John’s Footsteps — photographic title screen](previews/red-john.png)](https://elsewhere-satwik-web-lab.ctrlagent-4537.chatgpt.site/red-john.html)
+[![Red John’s Footsteps — photographic title screen](previews/red-john.png)](https://red-john-footsteps.vercel.app/)
 
 A season of obsession, told through real portraits, a playable piano, a descent into the cellar and the choice that changes Patrick Jane’s pursuit. Includes an optional, credited interactive Jane sculpture.
 
 **Explore:** season milestones, evidence, piano testimony, scroll-controlled 3D scenes and the complete finale ending. Spoilers through season one of *The Mentalist*.
 
-[Story preview — restricted access](https://elsewhere-satwik-web-lab.ctrlagent-4537.chatgpt.site/red-john.html) · [Credits](CREDITS.md)
+[Play Red John’s Footsteps](https://red-john-footsteps.vercel.app/) · [Credits](CREDITS.md)
 
 ## The Quiet Orbit
 
