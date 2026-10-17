@@ -4,7 +4,21 @@ A collection of finished frontend art by **[Satwik](https://github.com/Genious07
 
 [Open Elsewhere](https://elsewhere-experiences.vercel.app/) · [Brand assets](brand/)
 
-> This is a public showcase, with no website source code. Both experiences and the gallery are live and publicly accessible.
+> This is a public showcase, with no website source code. Red John’s Footsteps, The Quiet Orbit and the gallery are live. Afterhours is ready for deployment, with its implementation and audio in a private repository.
+
+## Afterhours
+
+<img src="brand/afterhours/logo-light.svg" alt="Afterhours" width="260">
+
+[![Afterhours — seven-song listening collection](previews/afterhours.png)](projects/afterhours.md)
+
+A personal listening room built around seven songs. Album-coloured surroundings, lyrics that follow the recording, animated playback controls, and a studio where the pads use sounds taken from the song itself.
+
+**Explore:** full recordings, instrumental versions, four-part mixing, eight playable sample slices, original 3D rooms and a mobile-first listening view.
+
+**Status:** Vercel-ready. Source and runtime audio are private; the live link will be added after deployment.
+
+[Project details](projects/afterhours.md) · [Brand assets](brand/afterhours/) · [Private source — owner access](https://github.com/Genious07/afterhours)
 
 ## Red John’s Footsteps
 

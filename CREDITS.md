@@ -6,3 +6,6 @@
 - Other character photographs, the external Patrick Jane sculpture, fonts and programme research are credited in the individual project's source and live credits.
 
 No blanket open-source license is asserted for third-party media, programme characters or trademarks. This public repository is a showcase of the work; it does not distribute website implementation code.
+
+- Afterhours record-and-tonearm monogram, wordmarks and social cover: original identity created for Satwik.
+- `previews/afterhours.png`: browser capture of the Afterhours collection. Album artwork remains the property of its respective rights holders; source provenance is retained in the private Afterhours repository. The public showcase includes no song audio or lyric files.
